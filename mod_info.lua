@@ -11,6 +11,7 @@ Four hotkeys for air combat management.
 If any selected unit is already excluded, all selected units are included again.
 Requires: ReUI
 ]]
+icon = "/mods/ImprovedAirSelection/icon.png"
 author = "Nuggets, HotCheese"
 url = ""
 uid = "improved-air-selection-v1"
