@@ -56,7 +56,6 @@ function Main(isReplay)
         local cats = bp.CategoriesHash
         return cats ~= nil
             and cats['GROUNDATTACK'] ~= nil
-            and cats['ANTIAIR'] == nil
             and cats['BOMBER'] == nil
             and cats['EXPERIMENTAL'] == nil
     end
