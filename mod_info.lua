@@ -16,7 +16,7 @@ Fixed issue where restorers were not being selected in gunship hotkey
 icon = "/mods/ImprovedAirSelection/icon.png"
 author = "Nuggets, HotCheese"
 url = ""
-uid = "improved-air-selection-v1"
+uid = "improved-air-selection-v2"
 selectable = true
 enabled = true
 exclusive = false
