@@ -1,5 +1,5 @@
 name = "ImprovedAirSelection"
-version = 1
+version = 2
 copyright = ""
 description = [[
 Fork of Nuggets' Improved Fighter Selection mod, with support for gunships and bombers.
@@ -10,6 +10,8 @@ Four hotkeys for air combat management.
 "Exclude / Include Air Combat from Selection" toggles whether the selected fighters, gunships, and bombers are excluded from the selection hotkeys.
 If any selected unit is already excluded, all selected units are included again.
 Requires: ReUI
+
+Fixed issue where restorers were not being selected in gunship hotkey
 ]]
 icon = "/mods/ImprovedAirSelection/icon.png"
 author = "Nuggets, HotCheese"
